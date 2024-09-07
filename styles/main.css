@@ -77,7 +77,7 @@ button:active {
 }
 
 .one {
-    font-size: 3.8rem;
+    font-size: 3.3rem;
 }
 
 .two {
@@ -155,7 +155,7 @@ button:active {
 .six .hat {
     position: absolute;
     top: -40%;
-    transform: translateX(85%);
+    transform: translateX(90%);
     width: 80px;
     /* transform: scale(0.1); */
 
